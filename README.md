@@ -5,7 +5,7 @@
 
 <img src="https://github.com/piaochung/food_image_classification_and_deploy/blob/main/img/url_image.PNG" alt="url_image">
 
-deploy_model.ipynb를 실행하게 되면 마지막 셀에서 위와 같은 결과를 받을 수 있습니다. 2개의 url 중에 http://bd573152d1d9.ngrok.io을 사용하여 제작한 모델의 결과를 받아볼 수 있습니다. 
+deploy_model.ipynb를 실행하게 되면 마지막 셀에서 위와 같은 결과를 받을 수 있습니다. 2개의 url 중에 bd573152d1d9.ngrok.io을 사용하여 제작한 모델의 결과를 받아볼 수 있습니다. 
 <br>
 ```
 http://bd573152d1d9.ngrok.io/predict?url=http://m.thefoodmarket.co.kr/file_data/thefoodmarket/2020/07/17/eb3528ca49858bd182733ef4dfbb14f9.jpg
